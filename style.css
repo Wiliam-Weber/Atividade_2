@@ -129,7 +129,8 @@ body {
     border-radius: 4px;
 }
 
-
+  /* CSS para o MOBILE */
+  
 @media (max-width: 768px) {
     /* Cabeçalho Mobile */
     .nav-desktop, .search-container {
