@@ -169,7 +169,7 @@ body {
       flex-wrap: wrap;
     }
 
-    /* Grade de Produtos Mobile */
+    
     .product-grid {
         grid-template-columns: repeat(2, 1fr); 
     }
@@ -183,4 +183,4 @@ body {
     .contact-info, .social-icons {
         margin-top: 20px;
     }
-}
+}       
