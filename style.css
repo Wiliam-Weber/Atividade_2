@@ -132,7 +132,7 @@ body {
   /* CSS para o MOBILE */
   
 @media (max-width: 768px) {
-    /* Cabeçalho Mobile */
+
     .nav-desktop, .search-container {
         display: none; 
     }
@@ -174,7 +174,7 @@ body {
         grid-template-columns: repeat(2, 1fr); 
     }
 
-    /* Rodapé Mobile */
+
     .footer-container {
         flex-direction: column;
         text-align: center;

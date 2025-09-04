@@ -1,7 +1,7 @@
 {
   "name": "Catálogo XYZ Company",
   "short_name": "Catálogo XYZ",
-  "description": "Um catálogo de produtos responsivo criado para a disciplina de Tópicos Especiais.",
+  "description": "Um catálogo de produtos responsivo criado para a disciplina de Desenvolvimento para Plataformas Moveis.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,5 +17,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ]
+  ] 
 }
